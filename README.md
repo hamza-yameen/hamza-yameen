@@ -1,5 +1,9 @@
 # 💫 About Me:
-👋 Hello! Thanks for taking the time to check out my profile!<br><br>My mission is to empower businesses in the digital age by creating engaging, user-friendly, and modern web and mobile applications. It is my commitment to implement cutting-edge technology and creative thinking to enhance your digital presence, ensuring your success in an increasingly competitive online environment.<br><br>Here's who I am:<br>A seasoned IT professional, Hamza Yameen brings to the table three years of experience in a dynamic technology environment. With a Bachelor of Science degree in Computer Science, he has a solid understanding of systems design and software engineering. <br><br>Hamza has a deep understanding of JavaScript, TypeScript, and Python, making it easy for him to create dynamic and interactive applications.
+👋 Hello!<br><br>
+Thanks for taking the time to check out my profile!<br><br>
+My mission is to empower businesses in the digital age by creating engaging, user-friendly, and modern web and mobile applications. It is my commitment to implement cutting-edge technology and creative thinking to enhance your digital presence, ensuring your success in an increasingly competitive online environment.<br><br>
+
+__Here's who I am:__<br>A seasoned IT professional, Hamza Yameen brings to the table three years of experience in a dynamic technology environment. With a Bachelor of Science degree in Computer Science, he has a solid understanding of systems design and software engineering. <br><br>Hamza has a deep understanding of JavaScript, TypeScript, and Python, making it easy for him to create dynamic and interactive applications.
 
 
 ## 🌐 Socials:
