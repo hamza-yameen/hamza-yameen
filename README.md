@@ -6,11 +6,11 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/hamza__yameen/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-yameen/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://twitter.com/hamza__yameen) 
 
 # 💻 Tech Stack:
-👉🏽 Frontend tech I know well: React.js | Next.js | Vue.js | React Native | Tailwindcss <br>
-👉🏽 Backend tech I know well: Node.js | Express.js | Nestjs | Django <br>
-👉🏽 Databases I work with: MongoDB | PostgreSQL | MySQL | Redis <br>
-👉🏽 ORM I work with: Prisma | TypeORM | Mongoose <br>
-👉🏽 In addition, I have hands-on experience with: WebSocket | gRPC | RabbitMQ | Docker
+👉🏽 __Frontend tech I know well:__ React.js | Next.js | Vue.js | React Native | Tailwindcss <br>
+👉🏽 __Backend tech I know well:__ Node.js | Express.js | Nestjs | Django <br>
+👉🏽 __Databases I work with:__ MongoDB | PostgreSQL | MySQL | Redis <br>
+👉🏽 __ORM I work with:__ Prisma | TypeORM | Mongoose <br>
+👉🏽 __In addition, I have hands-on experience with:__ WebSocket | gRPC | RabbitMQ | Docker
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hamza-yameen&theme=city_light&hide_border=true&include_all_commits=false&count_private=false)<br/>
