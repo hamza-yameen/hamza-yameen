@@ -18,7 +18,7 @@ My core strength lies in my technical skills, which enable me to solve problems 
 👉🏽 __Backend tech I know well:__ Node.js | Express.js | Nestjs | Django <br>
 👉🏽 __Databases I work with:__ MongoDB | PostgreSQL | MySQL | Redis <br>
 👉🏽 __ORM I work with:__ Prisma | TypeORM | Mongoose <br>
-👉🏽 __AI:__ LangChain + RAG + Voice Assistants + Chatbots
+👉🏽 __AI:__ LangChain + RAG + Voice Assistants + Chatbots <br>
 👉🏽 __In addition, I have hands-on experience with:__ WebSocket | gRPC | RabbitMQ | Docker
 
 ## 📊 GitHub Stats:
