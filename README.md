@@ -10,6 +10,13 @@ My core strength lies in my technical skills, which enable me to solve problems 
 ## 🌐 Socials:
 [![Website](logo=InstagramlogoColor=white)](https://hamzayameen.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-yameen/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://twitter.com/hamza__yameen) 
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hamza-yameen) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/8605454) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=hamza-yameen&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=hamza-yameen&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-yameen&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
 # 💻 Tech Stack:
 👉🏽 __Frontend tech I know well:__ React.js | Next.js | Vue.js | React Native | Tailwindcss <br>
 👉🏽 __Backend tech I know well:__ Node.js | Express.js | Nestjs | Django <br>
