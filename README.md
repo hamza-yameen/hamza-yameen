@@ -8,7 +8,7 @@ __Here's who I am:__<br>A seasoned IT professional, Hamza Yameen brings to the t
 My core strength lies in my technical skills, which enable me to solve problems digitally. As a professional software developer, I have expertise in Python, JavaScript, and TypeScript languages, as well as in multiple trending technologies/frameworks like React.js, React Native, Next.js, vue.js, Node.js, Express.js, Nest.js, Django, and many others.
 
 ## 🌐 Socials:
-[![Website](https://img.shields.io/badge/Website-yellow?style=for-the-badge&labelColor=yellow&color=yellow&label=Website&logoColor=white)](https://hamzayameen.com/)
+[![](https://img.shields.io/badge/Website-yellow?style=for-the-badge&labelColor=yellow&color=yellow&label=Website&logoColor=white)](https://hamzayameen.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hamza-yameen) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/8605454) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://twitter.com/hamza__yameen) 
