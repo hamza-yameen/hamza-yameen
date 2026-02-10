@@ -1,11 +1,21 @@
-# 💫 About Me:
-👋 Hello!<br>
-Thanks for taking the time to check out my profile!<br>
-Full-stack developer specializing in AI integration and modern web architectures who helps businesses transform their digital presence.<br>
+# 💫 About Me
 
-__Here's who I am:__<br>A seasoned IT professional, Hamza Yameen brings to the table three years of experience in a dynamic technology environment. With a Bachelor of Science degree in Computer Science, he has a solid understanding of systems design and software engineering.<br>
+## 👋 Hello there!
 
-My core strength lies in my technical skills, which enable me to solve problems digitally. As a professional software developer, I have expertise in Python, JavaScript, and TypeScript languages, as well as in multiple trending technologies/frameworks like React.js, React Native, Next.js, vue.js, Node.js, Express.js, Nest.js, Django, and many others.
+Thanks for taking the time to check out my profile!
+
+I build intelligent software solutions that generate measurable business outcomes.
+
+I work with startups and established companies to develop custom web and mobile applications that streamline operations, enhance customer experiences, and drive revenue growth.
+
+---
+
+## 🚀 My Contributions Lead To...
+
+- ✅ Enhanced user experiences that drive engagement  
+- 🤖 Competitive advantage through AI implementation  
+- 💰 Reduced costs through efficient software architecture  
+- ⚡ Fast and efficient project deployment with CI/CD pipelines 
 
 ### 🌐 Socials:
 [![Website](https://img.shields.io/badge/Website-yellow?labelColor=yellow&color=yellow&logoColor=white)](https://hamzayameen.com/)
