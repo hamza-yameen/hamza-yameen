@@ -1,7 +1,6 @@
 # 💫 About Me
 
-## 👋 Hello there!
-
+👋 Hello there!
 Thanks for taking the time to check out my profile!
 
 I build intelligent software solutions that generate measurable business outcomes.
