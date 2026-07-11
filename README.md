@@ -12,9 +12,8 @@
 
 <a href="https://hamzayameen.com/"><img src="https://img.shields.io/badge/Portfolio-282A36?style=for-the-badge&logo=firefox&logoColor=FF79C6" alt="Portfolio"/></a>
 <a href="https://linkedin.com/in/hamza-yameen"><img src="https://img.shields.io/badge/LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=8BE9FD" alt="LinkedIn"/></a>
-<a href="https://stackoverflow.com/users/8605454"><img src="https://img.shields.io/badge/Stack_Overflow-282A36?style=for-the-badge&logo=stackoverflow&logoColor=F8B940" alt="Stack Overflow"/></a>
 <a href="https://twitter.com/hamza__yameen"><img src="https://img.shields.io/badge/X-282A36?style=for-the-badge&logo=x&logoColor=F8F8F2" alt="X"/></a>
-<a href="mailto:hmd956898@gmail.com"><img src="https://img.shields.io/badge/Email-282A36?style=for-the-badge&logo=gmail&logoColor=FF5555" alt="Email"/></a>
+<a href="mailto:hamzayameen3000@gmail.com"><img src="https://img.shields.io/badge/Email-282A36?style=for-the-badge&logo=gmail&logoColor=FF5555" alt="Email"/></a>
 
 <br/>
 
@@ -30,7 +29,7 @@
 ```yaml
 name:       Hamza Yameen
 role:       Full-Stack Engineer & AI Solutions Builder
-focus:      web + mobile apps that drive real business outcomes
+focus:      web + mobile apps & AI solutions that drive real business outcomes
 approach:   turn a vision into a shipped, scalable product
 i_deliver:  engaging UX · AI advantage · lower costs · fast CI/CD delivery
 open_to:    freelance · full-time · collaborations
@@ -59,6 +58,8 @@ I build intelligent software that generates **measurable business outcomes** —
 <img src="https://img.shields.io/badge/Express-282A36?style=for-the-badge&logo=express&logoColor=F8F8F2"/>
 <img src="https://img.shields.io/badge/NestJS-282A36?style=for-the-badge&logo=nestjs&logoColor=E0234E"/>
 <img src="https://img.shields.io/badge/Django-282A36?style=for-the-badge&logo=django&logoColor=44B78B"/>
+<img src="https://img.shields.io/badge/FastAPI-282A36?style=for-the-badge&logo=fastapi&logoColor=009688"/>
+<img src="https://img.shields.io/badge/Flask-282A36?style=for-the-badge&logo=flask&logoColor=F8F8F2"/>
 <img src="https://img.shields.io/badge/Python-282A36?style=for-the-badge&logo=python&logoColor=FFD43B"/>
 
 **Data**
@@ -67,6 +68,14 @@ I build intelligent software that generates **measurable business outcomes** —
 <img src="https://img.shields.io/badge/MongoDB-282A36?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
 <img src="https://img.shields.io/badge/MySQL-282A36?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
 <img src="https://img.shields.io/badge/Redis-282A36?style=for-the-badge&logo=redis&logoColor=FF4438"/>
+
+**Vector / AI Databases**
+
+<img src="https://img.shields.io/badge/Pinecone-282A36?style=for-the-badge&logo=pinecone&logoColor=6E7DF5"/>
+<img src="https://img.shields.io/badge/Chroma-282A36?style=for-the-badge&logo=chromadb&logoColor=FF6F61"/>
+<img src="https://img.shields.io/badge/Qdrant-282A36?style=for-the-badge&logo=qdrant&logoColor=DC244C"/>
+<img src="https://img.shields.io/badge/Weaviate-282A36?style=for-the-badge&logo=weaviate&logoColor=00C4B4"/>
+<img src="https://img.shields.io/badge/pgvector-282A36?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
 
 **DevOps · Infra · Messaging**
 
@@ -86,8 +95,8 @@ I build intelligent software that generates **measurable business outcomes** —
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hamza-yameen&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&bg_color=282A36&title_color=BD93F9&icon_color=FF79C6" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-yameen&layout=compact&theme=dracula&hide_border=true&langs_count=8&bg_color=282A36&title_color=BD93F9" alt="top langs"/>
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hamza-yameen&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&bg_color=282A36&title_color=BD93F9&icon_color=FF79C6" alt="stats"/>
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hamza-yameen&layout=compact&theme=dracula&hide_border=true&langs_count=8&bg_color=282A36&title_color=BD93F9" alt="top langs"/>
 
 <br/>
 
@@ -95,7 +104,7 @@ I build intelligent software that generates **measurable business outcomes** —
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=hamza-yameen&theme=dracula&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="trophies"/>
+<img src="https://profile-trophy.vercel.app/?username=hamza-yameen&theme=dracula&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="trophies"/>
 
 </div>
 
@@ -116,9 +125,12 @@ I build intelligent software that generates **measurable business outcomes** —
 
 ## 🤝 Let's Build Something Impactful
 
-Got a vision that needs turning into reality? I love new challenges — let's figure them out together. Whether it's tech, business, or your next big idea, I'm always up for a conversation.
+Got a vision that needs turning into reality?
 
-📩 **[hmd956898@gmail.com](mailto:hmd956898@gmail.com)** · 🌐 **[hamzayameen.com](https://hamzayameen.com/)**
+I love new challenges.
+let's figure them out together. Whether it's tech, business, or your next big idea, I'm always up for a conversation.
+
+📩 **[hamzayameen3000@gmail.com](mailto:hamzayameen3000@gmail.com)** · 🌐 **[hamzayameen.com](https://hamzayameen.com/)**
 
 <div align="center">
 
