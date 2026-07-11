@@ -116,8 +116,14 @@ I build intelligent software that generates **measurable business outcomes** —
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamza-yameen&bg_color=282A36&color=F8F8F2&line=BD93F9&point=FF79C6&area=true&hide_border=true" width="100%" alt="activity graph"/>
 
-<!-- The snake animation below renders after you enable the snake workflow (see .github/workflows/snake.yml). -->
-<img src="https://raw.githubusercontent.com/hamza-yameen/hamza-yameen/output/snake.svg" alt="snake animation" width="100%"/>
+<!--
+  SNAKE ANIMATION — disabled for now to avoid a broken image.
+  To enable: push this to github.com/hamza-yameen/hamza-yameen, then run the
+  "Generate Snake Animation" workflow once (Actions tab) to create the `output` branch.
+  Once it succeeds, uncomment the <img> line below.
+
+  <img src="https://raw.githubusercontent.com/hamza-yameen/hamza-yameen/output/snake.svg" alt="snake animation" width="100%"/>
+-->
 
 </div>
 
