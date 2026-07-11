@@ -1,5 +1,35 @@
 # 👋 Hey, I'm Hamza Yameen
 
+<!--NEOFETCH:START-->
+```
+              ,g@M%@%@N%Nw,,               hamza@yameen ─────────────────────────────────────────────────
+           ,M*|`||*gNM=]mM%g||%N,           OS: ................. macOS · Linux · Windows
+          p!``   '! |'`  '''|||jhlj%w       Uptime: ............. 4+ Years (Full-Stack)
+         ,@L `     ,,        ''!`|j%M]%M    Host: ............... Remote — Worldwide
+        ]j'` .,wp@pw,    `.    ''''|%Wg     Kernel: ............. Full-Stack Engineer · AI Builder
+       /{||]@@@@@@@@pp.        |||||        IDE: ................ VS Code · WebStorm · Cursor 
+      '`  ']@@@@@@@@@@@@@p    , ,''`
+      , :]%%@@@@%%%%%k%h '*||mkr    *       Languages.Programming: . JavaScript · TypeScript · Python
+        j%M`      |jkk'  ~nrn=|i   ;`       Languages.Frameworks: . React · Next · Vue · Node · Nest · Django
+       !  jrr*^`         `"!  L''`:!        Languages.Data: ..... PostgreSQL · MongoDB · MySQL · Redis
+       j  lp;,.  ,/ @@    ,;\nmy "  ,~      Languages.Real: ..... English · Urdu
+      i r @@@mmHM @@@@ `^****M*,p ;,
+      | ]@@@@HHH]g@M%%%%H,jmgpmb%  j        Hobbies.Software: ... AI Chatbots & Voice Agents
+      ;;%%%%k%@[,.n|;.;j%%k|%k%%',[         Hobbies.Cloud: ...... AWS · Docker · CI/CD
+      H|%%k%%%j%k||,;;j;!!'|%ij}]@
+       "djjmkL,"]][,,,,wwxw;|#kjk`         ─ Contact ────────────────────────────────────────────────────
+        %;%km%%%M%M|%%jkkii||||[            Email: .............. hmd956898@gmail.com
+         kjj%%kkkl|!||||||j|||"             Website: ............ hamzayameen.com
+          |jm%H@@b%%kkmk%i|!,[              LinkedIn: ........... hamza-yameen
+           @p|j%%%%jkk|||j*'`;j[            X: .................. hamza__yameen
+                                            StackOverflow: ...... 8605454
+
+                                           ─ GitHub Stats ───────────────────────────────────────────────
+                                            Repos: .............. 40+   ·   Stars: 120
+                                            Commits: ............ 2,400 ·   Followers: 80
+```
+<!--NEOFETCH:END-->
+
 ### 🚀 Full-Stack Engineer | AI Solutions Builder | System Architect
 
 ---
