@@ -136,7 +136,7 @@ Got a vision that needs turning into reality?
 I love new challenges.
 let's figure them out together. Whether it's tech, business, or your next big idea, I'm always up for a conversation.
 
-📩 **[hamzayameen3000@gmail.com](mailto:hamzayameen3000@gmail.com)** · 🌐 **[hamzayameen.com](https://hamzayameen.com/)**
+📩 **[hamzayameen3000@gmail.com](mailto:hamzayameen3000@gmail.com)** · 🌐 **[hamzayameen.com](https://hamza-yameen-portfolio-lnzt413iq-hamzayameens-projects.vercel.app)**
 
 <div align="center">
 
