@@ -10,7 +10,7 @@
 
 <br/>
 
-<a href="https://hamzayameen.com/"><img src="https://img.shields.io/badge/Portfolio-282A36?style=for-the-badge&logo=firefox&logoColor=FF79C6" alt="Portfolio"/></a>
+<a href="hamza-yameen-portfolio-lnzt413iq-hamzayameens-projects.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-282A36?style=for-the-badge&logo=firefox&logoColor=FF79C6" alt="Portfolio"/></a>
 <a href="https://linkedin.com/in/hamza-yameen"><img src="https://img.shields.io/badge/LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=8BE9FD" alt="LinkedIn"/></a>
 <a href="https://twitter.com/hamza__yameen"><img src="https://img.shields.io/badge/X-282A36?style=for-the-badge&logo=x&logoColor=F8F8F2" alt="X"/></a>
 <a href="mailto:hamzayameen3000@gmail.com"><img src="https://img.shields.io/badge/Email-282A36?style=for-the-badge&logo=gmail&logoColor=FF5555" alt="Email"/></a>
